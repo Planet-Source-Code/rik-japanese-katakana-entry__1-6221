@@ -1,0 +1,20 @@
+
+KATAKANA ENTRY
+by Richard Nicol
+
+('Ri-chiya-do sann')
+
+This program converts sylables into Japanese Katakana characters inteligently.
+
+This program uses standard English TTF fonts, so you don't need any extra language support to use it.  Also, unlike the Japanese IME, the text can be copied into ANY program that supports TTF fonts including PSP.
+
+The fonts included are NOT my own, but they are freeware.  If anyone knows where they came from (I forgot), please let me know and I will credit them.
+
+
+eminent_uk@hotmail.com
+
+
+NB: To get a "N" type the letter n twice like you do in the MS Japanese Input Method.
+
+
+CITRUS FRUITS TTF (included) *MUST* BE INSTALLED.
